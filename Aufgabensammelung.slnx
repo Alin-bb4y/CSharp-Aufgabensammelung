@@ -1,5 +1,6 @@
 <Solution>
+  <Project Path="Aufgabe-1/Aufgabe-1.csproj" />
   <Project Path="Aufgabe-2/Aufgabe-2.csproj" />
   <Project Path="Aufgabe-3/Aufgabe-3.csproj" />
-  <Project Path="Aufgabe-1/Aufgabe-1.csproj" />
+  <Project Path="Augabe-4/Augabe-4.csproj" Id="b134e724-3d52-47b3-a3b8-375b1284a1dd" />
 </Solution>
